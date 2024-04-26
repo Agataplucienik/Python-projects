@@ -8,4 +8,5 @@ Features:
 Marking Spots: We provide functionality to mark spots on the map by specifying their latitude and longitude coordinates.
 Customizable Markers: Users can customize the markers with different icons, colors, and popup messages to enhance the map's visual appeal and informational value.
 Interactive Map: The resulting map is interactive, allowing users to zoom in, zoom out, and pan across the map to explore marked spots.
-![image](https://github.com/Agataplucienik/Python-projects/assets/29583554/228b2720-1711-4bd4-b1db-0d8854573453)
+![image](https://github.com/Agataplucienik/Python-projects/assets/29583554/42fe7f04-2c17-48a1-8225-0812a669e191)
+
